@@ -6,11 +6,10 @@
 
 <!--h1 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Jorge Eduardo Trejos Peña </h1></summary>
-  </ul>
-</div>
+<h1 align="center">
+Hi, I'm <a href="https://github.com/adilrahman"> Jorge Eduardo Trejos P </a>
+ <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
+</h1>
 
 
 <!--About Me-->
