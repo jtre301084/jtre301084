@@ -23,16 +23,19 @@ I'm from Costa Rica, and I'm a programming student. I work in business software 
 -    [NombreRepo4](https://github.com/jtre301084/NombreRepo2) — demo / enlace / captura.
 
 ## 🛠 Technologies
-- **Programming Languages:** Gambas3 · SQL · (Currently learning HTML/CSS and JavaScript)
+- **Programming Languages:** Gambas3 · SQL · (Currently learning HTML/CSS, JavaScript, React, Node.js)
 - **Databases:** SQLite3 · MariaDB
 - **Environment:** Linux (Debian) · Git
 - **Additional Skills:** Graphic Design · Video Editing · Branding
 - **Code Repository:** GitHub
 ## 📫 Contact
 - Email: jtre301084@gmail.com  
-- Web/Portfolio: https://tu-sitio.example  
+- Web/Portfolio: http:// en proceso...  
 - LinkedIn: [https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jtre301084/?isSelfProfile=true)
 - :nerd_face:  I believe that "Great software starts with curiosity, persistence, and the willingness to learn."`
+
+⚡ **Value Proposition**
+- I enjoy turning manual and repetitive processes into simple software tools that save time for entrepreneurs and small businesses. I build desktop and web applications to manage customers, sales, and inventory, and I am expanding my skills toward multi-user environments.
 
 <br>
 
