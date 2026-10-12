@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jorge Eduardo Trejos 👋
+# ¡Hi! I'm  Jorge Eduardo Trejos 👋
 <p align="center">
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
@@ -7,7 +7,7 @@
 
 <!--h1 without bottom border-->
 
-I am a software developer focused on business software. I build desktop and web applications using **Gambas3**, manage data with **SQL/SQLite3**, and am currently expanding my skills in **MariaDB, HTML5, CSS3**, and **JavaScript** for multi-user environments. All my development work is based on **Linux**.
+I'm from Costa Rica, and I'm a programming student. I work in business software development. I develop desktop and web applications using **Gambas3** for entrepreneurs and small businesses, manage data with **SQL/SQLite3**, and am currently expanding my skills in **MariaDB, HTML5, CSS3**, and **JavaScript** for multi-user environments. All my development work is based on **Linux**.
 
 
 <!--About Me-->
@@ -28,9 +28,10 @@ I am a software developer focused on business software. I build desktop and web 
 - **Environment:** Linux (Debian) · Git
 - **Additional Skills:** Graphic Design · Video Editing · Branding
 - **Code Repository:** GitHub
-
-
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=jtre301084@gmail.com&amp;color=EA4335&amp;style=flat-square)](mailto:jtre301084@gmail.com)
+## 📫 Contact
+- Email: jtre301084@gmail.com  
+- Web/Portfolio: https://tu-sitio.example  
+- LinkedIn: [https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jtre301084/?isSelfProfile=true)
 - :nerd_face:  I believe that "Great software starts with curiosity, persistence, and the willingness to learn."`
 
 <br>
