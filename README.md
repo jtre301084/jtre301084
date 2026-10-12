@@ -1,3 +1,4 @@
+# ¡Hola! Soy Jorge Eduardo Trejos 👋
 <p align="center">
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
@@ -6,10 +7,7 @@
 
 <!--h1 without bottom border-->
 
-<h1 align="center">
-Hi, I'm <a href="https://github.com/adilrahman"> Jorge Eduardo Trejos P </a>
- <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
-</h1>
+I am a software developer focused on business software. I build desktop and web applications using **Gambas3**, manage data with **SQL/SQLite3**, and am currently expanding my skills in **MariaDB, HTML5, CSS3**, and **JavaScript** for multi-user environments. All my development work is based on **Linux**.
 
 
 <!--About Me-->
@@ -18,11 +16,20 @@ Hi, I'm <a href="https://github.com/adilrahman"> Jorge Eduardo Trejos P </a>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: Independent Software Developer specializing in **Gambas3** and **Linux Systems**
-- :trophy:  Desktop Applications, Web Development, SQL Databases & Client-Server Systems
-- :technologist: **Currently working on** business management software, database-driven applications, and ERP-style systems
-- :boom: **Explore my repositories**to follow my projects and software development journey
-- 🌐 **Interested in** open-source software, business automation, and practical technology solutions
+## 🔭 Featured Projects
+- [NombreRepo1](https://github.com/jtre301084/NombreRepo1) — descripción corta: qué hace y por qué es interesante.
+- [NombreRepo2](https://github.com/jtre301084/NombreRepo2) — demo / enlace / captura.
+-  [NombreRepo3](https://github.com/jtre301084/NombreRepo2) — demo / enlace / captura.
+-    [NombreRepo4](https://github.com/jtre301084/NombreRepo2) — demo / enlace / captura.
+
+## 🛠 Technologies
+- **Programming Languages:** Gambas3 · SQL · (Currently learning HTML/CSS and JavaScript)
+- **Databases:** SQLite3 · MariaDB
+- **Environment:** Linux (Debian) · Git
+- **Additional Skills:** Graphic Design · Video Editing · Branding
+- **Code Repository:** GitHub
+
+
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=jtre301084@gmail.com&amp;color=EA4335&amp;style=flat-square)](mailto:jtre301084@gmail.com)
 - :nerd_face:  I believe that "Great software starts with curiosity, persistence, and the willingness to learn."`
 
